@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This website showcases my projects, sk
 
 ## 🚀 Live Demo
 
-You can view the live version of the website here: [https://yourusername.github.io/Sivajisivaji.github.io](https://Sivajisivaji.github.io)
+You can view the live version of the website here: [https://Sivajisivaji.github.io/Sivajisivaji.github.io](https://Sivajisivaji.github.io)
 
 ## 📂 Project Structure
 
